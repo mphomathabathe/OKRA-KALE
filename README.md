@@ -10,7 +10,7 @@ Key Features:
     View detailed recipe instructions.
     Minimize food waste and explore new culinary creations.
 
-User Guidance for the Recipe Generator App [Heading 2]
+### User Guidance for the Recipe Generator App 
 
 Welcome! Follow these steps to whip up delicious meals using what you have on hand:
 
