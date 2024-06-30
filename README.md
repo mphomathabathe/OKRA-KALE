@@ -1,4 +1,4 @@
-# OKRA&KALE
+# OKRAꓘALE
 
 ## Our Recipe Generator App with Google AppSheet 
 Simplify meal planning with the Recipe Generator App,powered by Google AppSheet! This app helps you utilize your existing ingredients by finding recipes that match them.
@@ -51,4 +51,4 @@ Welcome! Follow these steps to whip up delicious meals using what you have on ha
 
 Enjoy creating delicious meals with minimal waste and get the most out of your kitchen using the Recipe Generator App!
 
-Thank you for using OKRA&KALE!
+Thank you for using OKRAꓘALE!
