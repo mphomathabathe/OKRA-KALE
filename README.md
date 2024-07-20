@@ -1,4 +1,4 @@
-# OKRAꓘALE
+# OKRAꓘALE MVP
 
 ## Our Recipe Generator App with Google AppSheet 
 Simplify meal planning with the Recipe Generator App,powered by Google AppSheet! This app helps you utilize your existing ingredients by finding recipes that match them.
